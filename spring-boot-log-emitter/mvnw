@@ -1,0 +1,5 @@
+#!/bin/sh
+# Apache Maven Wrapper
+set -e
+MVNW_REPOURL=https://repo.maven.apache.org/maven2
+exec mvn "$@"

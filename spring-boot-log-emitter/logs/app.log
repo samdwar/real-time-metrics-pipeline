@@ -1,0 +1,71 @@
+Starting LogEmitterApp v0.0.1-SNAPSHOT using Java 24.0.1 with PID 39053 (/Users/umashankarsamdwar/workspace/real-time-metrics-stack/spring-boot-app/target/log-emitter-0.0.1-SNAPSHOT.jar started by umashankarsamdwar in /Users/umashankarsamdwar/workspace/real-time-metrics-stack/spring-boot-app)
+No active profile set, falling back to 1 default profile: "default"
+Started LogEmitterApp in 0.496 seconds (process running for 0.667)
+{}
+{"user_id":"user_5","service":"orders-api","response_time_ms":77,"region":"us-east-1","timestamp":"2025-07-06T12:07:44.649274Z","status":500}
+{}
+{"user_id":"user_406","service":"orders-api","response_time_ms":280,"region":"eu-west-1","timestamp":"2025-07-06T12:07:49.652397Z","status":200}
+{}
+{"user_id":"user_373","service":"orders-api","response_time_ms":323,"region":"eu-west-1","timestamp":"2025-07-06T12:07:54.650651Z","status":200}
+{}
+{"user_id":"user_791","service":"orders-api","response_time_ms":186,"region":"us-east-1","timestamp":"2025-07-06T12:07:59.651198Z","status":200}
+{}
+{"user_id":"user_998","service":"orders-api","response_time_ms":68,"region":"ap-south-1","timestamp":"2025-07-06T12:08:04.646992Z","status":200}
+{}
+{"user_id":"user_515","service":"orders-api","response_time_ms":69,"region":"us-east-1","timestamp":"2025-07-06T12:08:09.649268Z","status":200}
+{}
+{"user_id":"user_432","service":"orders-api","response_time_ms":59,"region":"us-east-1","timestamp":"2025-07-06T12:08:14.650249Z","status":200}
+Starting LogEmitterApp v0.0.1-SNAPSHOT using Java 24.0.1 with PID 39470 (/Users/umashankarsamdwar/workspace/real-time-metrics-stack/spring-boot-app/target/log-emitter-0.0.1-SNAPSHOT.jar started by umashankarsamdwar in /Users/umashankarsamdwar/workspace/real-time-metrics-stack/spring-boot-app)
+No active profile set, falling back to 1 default profile: "default"
+Started LogEmitterApp in 0.571 seconds (process running for 0.779)
+{}
+{"user_id":"user_409","service":"orders-api","response_time_ms":344,"region":"eu-west-1","timestamp":"2025-07-06T12:11:46.556542Z","status":200}
+{}
+{"user_id":"user_593","service":"orders-api","response_time_ms":289,"region":"us-east-1","timestamp":"2025-07-06T12:11:51.558926Z","status":200}
+{}
+{"user_id":"user_428","service":"orders-api","response_time_ms":212,"region":"ap-south-1","timestamp":"2025-07-06T12:11:56.553565Z","status":200}
+{}
+{"user_id":"user_867","service":"orders-api","response_time_ms":171,"region":"eu-west-1","timestamp":"2025-07-06T12:12:01.557628Z","status":200}
+{}
+{"user_id":"user_412","service":"orders-api","response_time_ms":318,"region":"eu-west-1","timestamp":"2025-07-06T12:12:06.556738Z","status":500}
+{}
+{"user_id":"user_275","service":"orders-api","response_time_ms":230,"region":"eu-west-1","timestamp":"2025-07-06T12:12:11.558138Z","status":500}
+{}
+{"user_id":"user_174","service":"orders-api","response_time_ms":110,"region":"ap-south-1","timestamp":"2025-07-06T12:12:16.557796Z","status":200}
+{}
+{"user_id":"user_498","service":"orders-api","response_time_ms":335,"region":"eu-west-1","timestamp":"2025-07-06T12:12:21.557071Z","status":200}
+{}
+{"user_id":"user_787","service":"orders-api","response_time_ms":135,"region":"eu-west-1","timestamp":"2025-07-06T12:12:26.556353Z","status":200}
+{}
+{"user_id":"user_996","service":"orders-api","response_time_ms":219,"region":"us-east-1","timestamp":"2025-07-06T12:12:31.558104Z","status":200}
+Starting LogEmitterApp v0.0.1-SNAPSHOT using Java 24.0.1 with PID 39606 (/Users/umashankarsamdwar/workspace/real-time-metrics-stack/spring-boot-app/target/log-emitter-0.0.1-SNAPSHOT.jar started by umashankarsamdwar in /Users/umashankarsamdwar/workspace/real-time-metrics-stack/spring-boot-app)
+No active profile set, falling back to 1 default profile: "default"
+Started LogEmitterApp in 0.443 seconds (process running for 0.6)
+{}
+{"user_id":"user_43","service":"orders-api","response_time_ms":138,"region":"us-east-1","timestamp":"2025-07-06T12:12:36.245626Z","status":200}
+{}
+{"user_id":"user_202","service":"orders-api","response_time_ms":167,"region":"us-east-1","timestamp":"2025-07-06T12:12:41.248055Z","status":200}
+{}
+{"user_id":"user_257","service":"orders-api","response_time_ms":243,"region":"us-east-1","timestamp":"2025-07-06T12:12:46.244389Z","status":200}
+{}
+{"user_id":"user_537","service":"orders-api","response_time_ms":235,"region":"ap-south-1","timestamp":"2025-07-06T12:12:51.247272Z","status":200}
+{}
+{"user_id":"user_942","service":"orders-api","response_time_ms":289,"region":"eu-west-1","timestamp":"2025-07-06T12:12:56.246362Z","status":200}
+{}
+{"user_id":"user_350","service":"orders-api","response_time_ms":274,"region":"eu-west-1","timestamp":"2025-07-06T12:13:01.247494Z","status":200}
+{}
+{"user_id":"user_648","service":"orders-api","response_time_ms":141,"region":"us-east-1","timestamp":"2025-07-06T12:13:06.246912Z","status":500}
+{}
+{"user_id":"user_705","service":"orders-api","response_time_ms":286,"region":"us-east-1","timestamp":"2025-07-06T12:13:11.247081Z","status":200}
+{}
+{"user_id":"user_993","service":"orders-api","response_time_ms":202,"region":"ap-south-1","timestamp":"2025-07-06T12:13:16.246177Z","status":200}
+{}
+{"user_id":"user_20","service":"orders-api","response_time_ms":208,"region":"us-east-1","timestamp":"2025-07-06T12:13:21.244239Z","status":200}
+{}
+{"user_id":"user_133","service":"orders-api","response_time_ms":157,"region":"ap-south-1","timestamp":"2025-07-06T12:13:26.245579Z","status":500}
+{}
+{"user_id":"user_93","service":"orders-api","response_time_ms":349,"region":"eu-west-1","timestamp":"2025-07-06T12:13:31.246889Z","status":200}
+{}
+{"user_id":"user_577","service":"orders-api","response_time_ms":157,"region":"eu-west-1","timestamp":"2025-07-06T12:13:36.247099Z","status":200}
+{}
+{"user_id":"user_905","service":"orders-api","response_time_ms":66,"region":"us-east-1","timestamp":"2025-07-06T12:13:41.242303Z","status":200}
